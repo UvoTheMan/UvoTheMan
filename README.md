@@ -1,5 +1,5 @@
 - 👋 Hi, I’m UvoTheMan
-- 👀 I’m interested in Machine Learning and AI
+- 👀 I’m interested in Data Analysis, Machine Learning and AI
 - 🌱 I’m currently learning Python and SQL. Also got eyes for C and R 
 - 💞️ I’d let you know once I'm ready for collaborations 😌
 - 📫 How to reach me : Just knock! Ha😂
